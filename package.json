@@ -1,0 +1,15 @@
+{
+  "name": "containerdocker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install -g nodemon -y; npm install; nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "*"
+  }
+}
